@@ -1,4 +1,6 @@
-﻿namespace SecureLanChatClient.Models
+﻿using System;
+
+namespace Secure_Lan_Chat___Transmission_File_Client.Models
 {
     public class MessageReceivedEventArgs : EventArgs
     {

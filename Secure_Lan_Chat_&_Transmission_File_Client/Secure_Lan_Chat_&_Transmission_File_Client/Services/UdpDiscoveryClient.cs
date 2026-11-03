@@ -2,7 +2,7 @@
 using System.Net.Sockets;
 using System.Text;
 
-namespace SecureLanChatClient.Services
+namespace Secure_Lan_Chat___Transmission_File_Client.Services
 {
     public class UdpDiscoveryClient
     {

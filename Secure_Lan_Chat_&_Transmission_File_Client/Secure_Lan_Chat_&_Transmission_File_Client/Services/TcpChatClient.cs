@@ -1,9 +1,9 @@
 ﻿using System.IO;
 using System.Net.Sockets;
 using System.Text;
-using SecureLanChatClient.Models;
+using Secure_Lan_Chat___Transmission_File_Client.Models;
 
-namespace SecureLanChatClient.Services
+namespace Secure_Lan_Chat___Transmission_File_Client.Services
 {
     public class TcpChatClient
     {
